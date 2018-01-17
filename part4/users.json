@@ -1,0 +1,6 @@
+{"users":[
+    {"login":"admin","password":"123"},
+    {"login":"helloword","password":"1337"},
+    {"login":"teacher","password":"555"},
+    {"login":"anotheradmin","password":"12321"}
+]}

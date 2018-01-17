@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE таблица PUBLIC "Shapovalov" "part2.dtd">
+<myportfolio>
+	<mycompetencies>
+		<competencies in="HTML" value="good lvl" />
+		<competencies in="CSS" value="good lvl />
+		<competencies in="PHP" value="good lvl" />
+		<competencies in="SQL" value="medium lvl" />
+		<competencies in="JavaScript" value="medium lvl" />
+		<competencies in="Java" value="medium lvl" />
+		<competencies in="C++" value="low lvl" />
+	</mycompetencies>
+</myportfolio>
